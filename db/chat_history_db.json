@@ -1,1 +1,25 @@
-{}
+{
+  "hore__literary_studies": {
+    "username": "hore",
+    "subject_id": "literary_studies",
+    "messages": [
+      {
+        "role": "user",
+        "content": "تلخيص تتطورالشعر في لبييا",
+        "timestamp": "2026-05-11T16:49:48.987883+00:00"
+      }
+    ],
+    "full_messages": [
+      {
+        "role": "user",
+        "content": "تلخيص تتطورالشعر في لبييا",
+        "timestamp": "2026-05-11T16:49:48.987883+00:00"
+      }
+    ],
+    "summary": "",
+    "message_count": 0,
+    "last_file": null,
+    "subject": "literary_studies",
+    "saved_at": "2026-05-11T16:49:18.646370"
+  }
+}
