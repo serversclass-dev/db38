@@ -1,1 +1,21 @@
-{}
+{
+  "hore": {
+    "username": "hore",
+    "password": "123121Hore@",
+    "student_type": "علمي",
+    "telegram_user_id": "7121430353",
+    "telegram_username": null,
+    "telegram_first_name": "أّلَغُﺰأّلَيِّ🔥",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_44.jpg",
+    "session_id": "76433fab-17df-4753-b9da-416b962fe2bb",
+    "created_at": "2026-05-11T16:46:58.954033",
+    "verified": true,
+    "last_login": "2026-05-11T16:50:50.377682",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic",
+      "literary_studies"
+    ],
+    "server_num": 38
+  }
+}
