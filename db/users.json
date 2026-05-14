@@ -7,14 +7,34 @@
     "telegram_username": null,
     "telegram_first_name": "أّلَغُﺰأّلَيِّ🔥",
     "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_44.jpg",
-    "session_id": "76433fab-17df-4753-b9da-416b962fe2bb",
+    "session_id": "5a78ff2f-4ce9-45cd-8c1f-936a21c8bc53",
     "created_at": "2026-05-11T16:46:58.954033",
     "verified": true,
-    "last_login": "2026-05-11T16:50:50.377682",
+    "last_login": "2026-05-13T07:07:32.723377",
     "balance": 0,
     "purchased_subjects": [
       "islamic",
-      "literary_studies"
+      "literary_studies",
+      "physics_electric"
+    ],
+    "server_num": 38
+  },
+  "jihad": {
+    "username": "jihad",
+    "password": "ru9UWEJy7DQ9gad",
+    "student_type": "علمي",
+    "telegram_user_id": "6879580026",
+    "telegram_username": null,
+    "telegram_first_name": "Ppijj",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_88.jpg",
+    "session_id": "aa642b53-3cfd-4770-a76d-d9062cf5fb0c",
+    "created_at": "2026-05-13T14:09:27.179259",
+    "verified": true,
+    "last_login": "2026-05-13T14:39:56.988005",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic",
+      "physics_electric"
     ],
     "server_num": 38
   }
